@@ -1,0 +1,1 @@
+This is a project to show what I have learned so far about HTML using The Odin Project. The project requires me to make a make a basic recipe website. The website will consist of a main index page which will have links to a few recipies.
