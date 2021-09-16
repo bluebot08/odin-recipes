@@ -13,17 +13,23 @@ p {
 
 ol {
   margin: 0 auto;
+  text-align: left;
   width: 30%;
 }
 
 ul {
   margin: 0 auto;
+  text-align: left;
   width: 30%;
 }
 
 /* li {
   display: inline-block;
 } */
+
+.top-content{
+  padding-bottom: 30px;
+}
 
 .content {
   background-color: rgb(200, 213, 185);
