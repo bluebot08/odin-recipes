@@ -8,7 +8,22 @@ p {
   width: 30%;
 }
 
+/* Ordered and unordered lists */
+
+ol {
+  margin: 0 auto;
+  width: 30%;
+}
+
+ul {
+  margin: 0 auto;
+  width: 30%;
+}
+
+/* li {
+  display: inline-block;
+} */
+
 .recipe-links {
   padding: 30px 0;
 }
-ß
